@@ -4,5 +4,7 @@ Seismic data is collected using reflection seismology, or seismic reflection. Th
 # Data
 The data is a set of images chosen at various locations chosen at random in the subsurface. The images are 101 x 101 pixels and each pixel is classified as either salt or sediment. In addition to the seismic images, the depth of the imaged location is provided for each image. The goal of the competition is to segment regions that contain salt.
 
+https://www.kaggle.com/c/tgs-salt-identification-challenge/data
+
 # Architechture
 U-NET
